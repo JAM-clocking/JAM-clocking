@@ -1,5 +1,19 @@
-## Hi there 👋
+##hello there, welcome!
 
+Background:
+I'am 14. Currently studying📖. Dual-citizenship of Singapore and Indonesia ^-^.
+
+📚 Things I'am familiar with:
+-HTML,CSS,JS (basic web component)
+-Python (Fast api)
+
+🏫 Things i am still learning:
+-Electron framwork (non-native app development)
+-other programming languages (C#,C++)
+-UI development (website)
+
+Contact me?
+Discord: jamier_cyo
 <!--
 **JAM-clocking/JAM-clocking** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
