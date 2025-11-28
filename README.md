@@ -15,7 +15,7 @@ I like to play game such as Valorant, MC, RBLX
 -UI development (website) <br>
 
 Contact me? <br>
-Discord: jamier_cyo <br>
+Discord: jamier_cyo (best option)<br>
 Email: a350.sniper@gmail.com <br>
 <!--
 **JAM-clocking/JAM-clocking** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
