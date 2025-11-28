@@ -15,6 +15,7 @@ I'am 14. Currently studying📖. Dual-citizenship of Singapore and Indonesia ^-^
 
 Contact me? <br>
 Discord: jamier_cyo <br>
+Email: a350.sniper@gmail.com <br>
 <!--
 **JAM-clocking/JAM-clocking** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
