@@ -1,6 +1,6 @@
-hello there, welcome!
+**hello there, welcome!**
 
-Background:<br>
+🏖️ Background:<br>
 I'am 14. Currently studying📖. Dual-citizenship of Singapore and Indonesia ^-^.<br>
 I like to play game such as Valorant, MC, RBLX
 
