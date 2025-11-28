@@ -1,6 +1,6 @@
 hello there, welcome!
 
-Background:
+Background:<br>
 I'am 14. Currently studying📖. Dual-citizenship of Singapore and Indonesia ^-^.
 
 📚 Things I'am familiar with: <br>
