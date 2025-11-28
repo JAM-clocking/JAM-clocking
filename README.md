@@ -1,7 +1,8 @@
 hello there, welcome!
 
 Background:<br>
-I'am 14. Currently studying📖. Dual-citizenship of Singapore and Indonesia ^-^.
+I'am 14. Currently studying📖. Dual-citizenship of Singapore and Indonesia ^-^.<br>
+I like to play game such as Valorant, MC, RBLX
 
 📚 Things I'am familiar with: <br>
 -HTML,CSS,JS (basic web component) <br>
