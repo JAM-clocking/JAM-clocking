@@ -15,10 +15,6 @@ I like to play game such as Valorant, MC, RBLX
 -UI development (website) <br>
 
 📜 certificates: <br>
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="65aabd3a-d8af-46a8-83d2-59749e40801f" data-share-badge-host="https://credly.com"></div>
-
-<script type="text/javascript" async src="https://credly.com"></script>
-
 
 Contact me? <br>
 Discord: jamier_cyo (best option: please ask directly instead of "hi" "hello")<br>
