@@ -15,7 +15,8 @@ I like to play game such as Valorant, MC, RBLX
 -UI development (website) <br>
 
 📜 certificates: <br>
-[![Credly Badge](https://images.credly.com/size/100x100/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png)](https://www.credly.com/badges/65aabd3a-d8af-46a8-83d2-59749e40801f/public_url)<br>
+[![Credly Badge](https://images.credly.com/size/167x167/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png)](https://www.credly.com/badges/65aabd3a-d8af-46a8-83d2-59749e40801f/public_url)
+[![Credly Badge](https://images.credly.com/size/167x167/images/68c0b94d-f6ac-40b1-a0e0-921439eb092e/image.png)](https://www.credly.com/badges/08a21ee7-8348-4504-b2d8-6869c66a96d4/public_url)<br>
 
 Contact me? <br>
 Discord: jamier_cyo (best option: please ask directly instead of "hi" "hello")<br>
