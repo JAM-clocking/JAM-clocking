@@ -1,12 +1,12 @@
 **hello there, welcome!**
 
 🏖️ Background:<br>
-I'am 15. Currently studying📖. Dual-citizenship of Singapore and Indonesia ^-^.<br>
+I'am 15. Currently studying📖.<br>
 I like to play game such as Valorant, MC, RBLX
 
 📚 Things I'am familiar with: <br>
 -HTML,CSS,JS (basic web component) <br>
--Python (Fast api) <br>
+-Python (Fast api, basic use) <br>
 -full stack web development <br>
 
 🏫 Things i am still learning: <br>
@@ -14,9 +14,14 @@ I like to play game such as Valorant, MC, RBLX
 -other programming languages (C#,C++) <br>
 -UI development (website) <br>
 
+📜 certificates: <br>
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="65aabd3a-d8af-46a8-83d2-59749e40801f" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="65aabd3a-d8af-46a8-83d2-59749e40801f" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
 Contact me? <br>
-Discord: jamier_cyo (best option)<br>
+Discord: jamier_cyo (best option: please ask directly instead of "hi" "hello")<br>
 Email: a350.sniper@gmail.com <br>
+
 <!--
 **JAM-clocking/JAM-clocking** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
