@@ -10,8 +10,8 @@ I like to play game such as Valorant, MC, RBLX
 -full stack web development <br>
 
 🏫 Things i am still learning: <br>
--Electron framwork (non-native app development) <br>
--other programming languages (C#,C++) <br>
+-Electron/Tauri framework (non-native app development) <br>
+-other programming languages (C#,C++,Rust) <br>
 -UI development (website) <br>
 
 📜 certificates: <br>
